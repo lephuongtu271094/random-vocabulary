@@ -1,0 +1,2522 @@
+[
+  {
+    "infinitive": "abide",
+    "past": "abode/abided",
+    "past_participle": "abode/abided",
+    "signification": "lưu trú, lưu lại",
+    "stt": "1"
+  },
+  {
+    "infinitive": "arise",
+    "past": "arose",
+    "past_participle": "arisen",
+    "signification": "phát sinh",
+    "stt": "2"
+  },
+  {
+    "infinitive": "awake",
+    "past": "awoke",
+    "past_participle": "awoken",
+    "signification": "đánh thức, thức",
+    "stt": "3"
+  },
+  {
+    "infinitive": "backslide",
+    "past": "backslid",
+    "past_participle": "backslidden/backslid",
+    "signification": "tái phạm",
+    "stt": "4"
+  },
+  {
+    "infinitive": "be",
+    "past": "was/were",
+    "past_participle": "been",
+    "signification": "thì, là, bị, ở",
+    "stt": "5"
+  },
+  {
+    "infinitive": "bear",
+    "past": "bore",
+    "past_participle": "borne",
+    "signification": "mang, chịu đựng",
+    "stt": "6"
+  },
+  {
+    "infinitive": "beat",
+    "past": "beat",
+    "past_participle": "beaten/beat",
+    "signification": "đánh, đập",
+    "stt": "7"
+  },
+  {
+    "infinitive": "become",
+    "past": "became",
+    "past_participle": "become",
+    "signification": "trở nên",
+    "stt": "8"
+  },
+  {
+    "infinitive": "befall",
+    "past": "befell",
+    "past_participle": "befallen",
+    "signification": "xảy đến",
+    "stt": "9"
+  },
+  {
+    "infinitive": "begin",
+    "past": "began",
+    "past_participle": "begun",
+    "signification": "bắt đầu",
+    "stt": "10"
+  },
+  {
+    "infinitive": "behold",
+    "past": "beheld",
+    "past_participle": "beheld",
+    "signification": "ngắm nhìn",
+    "stt": "11"
+  },
+  {
+    "infinitive": "bend",
+    "past": "bent",
+    "past_participle": "bent",
+    "signification": "bẻ cong",
+    "stt": "12"
+  },
+  {
+    "infinitive": "beset",
+    "past": "beset",
+    "past_participle": "beset",
+    "signification": "bao quanh",
+    "stt": "13"
+  },
+  {
+    "infinitive": "bespeak",
+    "past": "bespoke",
+    "past_participle": "bespoken",
+    "signification": "chứng tỏ",
+    "stt": "14"
+  },
+  {
+    "infinitive": "bet",
+    "past": "bet/betted",
+    "past_participle": "bet/betted ",
+    "signification": "đánh cược, cá cược",
+    "stt": "15"
+  },
+  {
+    "infinitive": "bid",
+    "past": "bid",
+    "past_participle": "bid",
+    "signification": "trả giá",
+    "stt": "16"
+  },
+  {
+    "infinitive": "bind",
+    "past": "bound",
+    "past_participle": "bound",
+    "signification": "buộc, trói",
+    "stt": "17"
+  },
+  {
+    "infinitive": "bite",
+    "past": "bit",
+    "past_participle": "bitten",
+    "signification": "cắn",
+    "stt": "18"
+  },
+  {
+    "infinitive": "bleed",
+    "past": "bled",
+    "past_participle": "bled",
+    "signification": "chảy máu",
+    "stt": "19"
+  },
+  {
+    "infinitive": "blow",
+    "past": "blew",
+    "past_participle": "blown",
+    "signification": "thổi",
+    "stt": "20"
+  },
+  {
+    "infinitive": "break",
+    "past": "broke",
+    "past_participle": "broken",
+    "signification": "đập vỡ",
+    "stt": "21"
+  },
+  {
+    "infinitive": "breed",
+    "past": "bred",
+    "past_participle": "bred",
+    "signification": "nuôi, dạy dỗ",
+    "stt": "22"
+  },
+  {
+    "infinitive": "bring",
+    "past": "brought",
+    "past_participle": "brought",
+    "signification": "mang đến",
+    "stt": "23"
+  },
+  {
+    "infinitive": "broadcast",
+    "past": "broadcast",
+    "past_participle": "broadcast",
+    "signification": "phát thanh",
+    "stt": "24"
+  },
+  {
+    "infinitive": "browbeat",
+    "past": "browbeat",
+    "past_participle": "browbeaten/browbeat",
+    "signification": "hăm dọa",
+    "stt": "25"
+  },
+  {
+    "infinitive": "build",
+    "past": "built",
+    "past_participle": "built",
+    "signification": "xây dựng",
+    "stt": "26"
+  },
+  {
+    "infinitive": "burn",
+    "past": "burnt/burned",
+    "past_participle": "burnt/burned",
+    "signification": "đốt, cháy",
+    "stt": "27"
+  },
+  {
+    "infinitive": "burst",
+    "past": "burst",
+    "past_participle": "burst",
+    "signification": "nổ tung, vỡ òa",
+    "stt": "28"
+  },
+  {
+    "infinitive": "bust",
+    "past": "busted/bust",
+    "past_participle": "busted/bust",
+    "signification": "làm bể, làm vỡ",
+    "stt": "29"
+  },
+  {
+    "infinitive": "buy",
+    "past": "bought",
+    "past_participle": "bought",
+    "signification": "mua",
+    "stt": "30"
+  },
+  {
+    "infinitive": "cast",
+    "past": "cast",
+    "past_participle": "cast",
+    "signification": "ném, tung",
+    "stt": "31"
+  },
+  {
+    "infinitive": "catch",
+    "past": "caught",
+    "past_participle": "caught",
+    "signification": "bắt, chụp",
+    "stt": "32"
+  },
+  {
+    "infinitive": "chide",
+    "past": "chid/chided",
+    "past_participle": "chid/chidden/chided",
+    "signification": "mắng, chửi",
+    "stt": "33"
+  },
+  {
+    "infinitive": "choose",
+    "past": "chose",
+    "past_participle": "chosen",
+    "signification": "chọn, lựa",
+    "stt": "34"
+  },
+  {
+    "infinitive": "cleave",
+    "past": "clove/cleft/cleaved",
+    "past_participle": "cloven/cleft/cleaved",
+    "signification": "chẻ, tách hai",
+    "stt": "35"
+  },
+  {
+    "infinitive": "cleave",
+    "past": "clave",
+    "past_participle": "cleaved",
+    "signification": "dính chặt",
+    "stt": "36"
+  },
+  {
+    "infinitive": "cling",
+    "past": "clung",
+    "past_participle": "clung",
+    "signification": "bám vào, dính vào",
+    "stt": "37"
+  },
+  {
+    "infinitive": "clothe",
+    "past": "clothed/clad ",
+    "past_participle": "clothed/clad",
+    "signification": "che phủ",
+    "stt": "38"
+  },
+  {
+    "infinitive": "come",
+    "past": "came",
+    "past_participle": "come",
+    "signification": "đến, đi đến",
+    "stt": "39"
+  },
+  {
+    "infinitive": "cost",
+    "past": "cost",
+    "past_participle": "cost",
+    "signification": "có giá là",
+    "stt": "40"
+  },
+  {
+    "infinitive": "creep",
+    "past": "crept",
+    "past_participle": "crept ",
+    "signification": "bò, trườn, lẻn",
+    "stt": "41"
+  },
+  {
+    "infinitive": "crossbreed",
+    "past": "crossbred",
+    "past_participle": "crossbred",
+    "signification": "cho lai giống",
+    "stt": "42"
+  },
+  {
+    "infinitive": "crow",
+    "past": "crew/crewed",
+    "past_participle": "crowed",
+    "signification": "gáy (gà)",
+    "stt": "43"
+  },
+  {
+    "infinitive": "cut",
+    "past": "cut",
+    "past_participle": "cut",
+    "signification": "cắt, chặt",
+    "stt": "44"
+  },
+  {
+    "infinitive": "daydream",
+    "past": "daydreamed/daydreamt ",
+    "past_participle": "daydreamed/daydreamt",
+    "signification": "nghĩ vẩn vơ, mơ mộng",
+    "stt": "45"
+  },
+  {
+    "infinitive": "deal",
+    "past": "dealt",
+    "past_participle": "dealt",
+    "signification": "giao thiệp",
+    "stt": "46"
+  },
+  {
+    "infinitive": "dig",
+    "past": "dug",
+    "past_participle": "dug",
+    "signification": "đào",
+    "stt": "47"
+  },
+  {
+    "infinitive": "disprove",
+    "past": "disproved",
+    "past_participle": "disproved/disproven ",
+    "signification": "bác bỏ",
+    "stt": "48"
+  },
+  {
+    "infinitive": "dive",
+    "past": "dove/dived",
+    "past_participle": "dived",
+    "signification": "lặn, lao xuống",
+    "stt": "49"
+  },
+  {
+    "infinitive": "do",
+    "past": "did",
+    "past_participle": "done",
+    "signification": "làm",
+    "stt": "50"
+  },
+  {
+    "infinitive": "draw",
+    "past": "drew",
+    "past_participle": "drawn",
+    "signification": "vẽ, kéo",
+    "stt": "51"
+  },
+  {
+    "infinitive": "dream",
+    "past": "dreamt/dreamed",
+    "past_participle": "dreamt/dreamed",
+    "signification": "mơ thấy",
+    "stt": "52"
+  },
+  {
+    "infinitive": "drink",
+    "past": "drank",
+    "past_participle": "drunk",
+    "signification": "uống",
+    "stt": "53"
+  },
+  {
+    "infinitive": "drive",
+    "past": "drove",
+    "past_participle": "driven",
+    "signification": "lái xe",
+    "stt": "54"
+  },
+  {
+    "infinitive": "dwell",
+    "past": "dwelt",
+    "past_participle": "dwelt",
+    "signification": "trú ngụ, ở",
+    "stt": "55"
+  },
+  {
+    "infinitive": "eat",
+    "past": "ate",
+    "past_participle": "eaten",
+    "signification": "ăn",
+    "stt": "56"
+  },
+  {
+    "infinitive": "fall",
+    "past": "fell",
+    "past_participle": "fallen",
+    "signification": "ngã, rơi",
+    "stt": "57"
+  },
+  {
+    "infinitive": "feed",
+    "past": "fed",
+    "past_participle": "fed",
+    "signification": "cho ăn, ăn, nuôi",
+    "stt": "58"
+  },
+  {
+    "infinitive": "feel",
+    "past": "felt",
+    "past_participle": "felt",
+    "signification": "cảm thấy",
+    "stt": "59"
+  },
+  {
+    "infinitive": "fight",
+    "past": "fought",
+    "past_participle": "fought",
+    "signification": "chiến đấu",
+    "stt": "60"
+  },
+  {
+    "infinitive": "find",
+    "past": "found",
+    "past_participle": "found",
+    "signification": "tìm thấy, thấy",
+    "stt": "61"
+  },
+  {
+    "infinitive": "fit (tailor, change size)",
+    "past": "fitted/fit",
+    "past_participle": "fitted/fit",
+    "signification": "làm cho vừa, làm cho hợp",
+    "stt": "62"
+  },
+  {
+    "infinitive": "flee",
+    "past": "fled",
+    "past_participle": "fled",
+    "signification": "chạy trốn",
+    "stt": "63"
+  },
+  {
+    "infinitive": "fling",
+    "past": "flung",
+    "past_participle": "flung",
+    "signification": "tung, quăng",
+    "stt": "64"
+  },
+  {
+    "infinitive": "fly",
+    "past": "flew",
+    "past_participle": "flown",
+    "signification": "bay",
+    "stt": "65"
+  },
+  {
+    "infinitive": "forbear",
+    "past": "forbore",
+    "past_participle": "forborne",
+    "signification": "nhịn",
+    "stt": "66"
+  },
+  {
+    "infinitive": "forbid",
+    "past": "forbade/forbad",
+    "past_participle": "forbidden",
+    "signification": "cấm, cấm đoán",
+    "stt": "67"
+  },
+  {
+    "infinitive": "forecast",
+    "past": "forecast/forecasted",
+    "past_participle": "forecast/forecasted",
+    "signification": "tiên đoán",
+    "stt": "68"
+  },
+  {
+    "infinitive": "forego (also forgo)",
+    "past": "forewent",
+    "past_participle": "foregone",
+    "signification": "bỏ, kiêng",
+    "stt": "69"
+  },
+  {
+    "infinitive": "foresee",
+    "past": "foresaw",
+    "past_participle": "forseen",
+    "signification": "thấy trước",
+    "stt": "70"
+  },
+  {
+    "infinitive": "foretell",
+    "past": "foretold",
+    "past_participle": "foretold",
+    "signification": "đoán trước",
+    "stt": "71"
+  },
+  {
+    "infinitive": "forget",
+    "past": "forgot",
+    "past_participle": "forgotten",
+    "signification": "quên",
+    "stt": "72"
+  },
+  {
+    "infinitive": "forgive",
+    "past": "forgave",
+    "past_participle": "forgiven",
+    "signification": "tha thứ",
+    "stt": "73"
+  },
+  {
+    "infinitive": "forsake",
+    "past": "forsook",
+    "past_participle": "forsaken",
+    "signification": "ruồng bỏ",
+    "stt": "74"
+  },
+  {
+    "infinitive": "freeze",
+    "past": "froze",
+    "past_participle": "frozen",
+    "signification": "(làm) đông lại",
+    "stt": "75"
+  },
+  {
+    "infinitive": "frostbite",
+    "past": "frostbit",
+    "past_participle": "frostbitten",
+    "signification": "bỏng lạnh",
+    "stt": "76"
+  },
+  {
+    "infinitive": "get",
+    "past": "got",
+    "past_participle": "got/gotten",
+    "signification": "có được",
+    "stt": "77"
+  },
+  {
+    "infinitive": "gild",
+    "past": "gilt/gilded",
+    "past_participle": "gilt/gilded",
+    "signification": "mạ vàng",
+    "stt": "78"
+  },
+  {
+    "infinitive": "gird",
+    "past": "girt/girded",
+    "past_participle": "girt/girded",
+    "signification": "đeo vào",
+    "stt": "79"
+  },
+  {
+    "infinitive": "give",
+    "past": "gave",
+    "past_participle": "given",
+    "signification": "cho",
+    "stt": "80"
+  },
+  {
+    "infinitive": "go",
+    "past": "went",
+    "past_participle": "gone",
+    "signification": "đi",
+    "stt": "81"
+  },
+  {
+    "infinitive": "grind",
+    "past": "ground",
+    "past_participle": "ground",
+    "signification": "nghiền, xay",
+    "stt": "82"
+  },
+  {
+    "infinitive": "grow",
+    "past": "grew",
+    "past_participle": "grown",
+    "signification": "mọc, trồng",
+    "stt": "83"
+  },
+  {
+    "infinitive": "hand-feed",
+    "past": "hand-fed",
+    "past_participle": "hand-fed",
+    "signification": "cho ăn bằng tay",
+    "stt": "84"
+  },
+  {
+    "infinitive": "handwrite",
+    "past": "handwrote",
+    "past_participle": "handwritten",
+    "signification": "viết tay",
+    "stt": "85"
+  },
+  {
+    "infinitive": "hang",
+    "past": "hung",
+    "past_participle": "hung",
+    "signification": "móc lên, treo lên",
+    "stt": "86"
+  },
+  {
+    "infinitive": "have",
+    "past": "had",
+    "past_participle": "had",
+    "signification": "có",
+    "stt": "87"
+  },
+  {
+    "infinitive": "hear",
+    "past": "heard",
+    "past_participle": "heard",
+    "signification": "nghe",
+    "stt": "88"
+  },
+  {
+    "infinitive": "heave",
+    "past": "hove/heaved",
+    "past_participle": "hove/heaved",
+    "signification": "trục lên",
+    "stt": "89"
+  },
+  {
+    "infinitive": "hew",
+    "past": "hewed",
+    "past_participle": "hewn/hewed",
+    "signification": "chặt, đốn",
+    "stt": "90"
+  },
+  {
+    "infinitive": "hide",
+    "past": "hid",
+    "past_participle": "hidden",
+    "signification": "giấu, trốn, nấp",
+    "stt": "91"
+  },
+  {
+    "infinitive": "hit",
+    "past": "hit",
+    "past_participle": "hit",
+    "signification": "đụng",
+    "stt": "92"
+  },
+  {
+    "infinitive": "hurt",
+    "past": "hurt",
+    "past_participle": "hurt",
+    "signification": "làm đau",
+    "stt": "93"
+  },
+  {
+    "infinitive": "inbreed",
+    "past": "inbred",
+    "past_participle": "inbred",
+    "signification": "lai giống cận huyết",
+    "stt": "94"
+  },
+  {
+    "infinitive": "inlay",
+    "past": "inlaid",
+    "past_participle": "inlaid",
+    "signification": "cẩn, khảm",
+    "stt": "95"
+  },
+  {
+    "infinitive": "input",
+    "past": "input",
+    "past_participle": "input",
+    "signification": "đưa vào",
+    "stt": "96"
+  },
+  {
+    "infinitive": "inset",
+    "past": "inset",
+    "past_participle": "inset",
+    "signification": "dát, ghép",
+    "stt": "97"
+  },
+  {
+    "infinitive": "interbreed",
+    "past": "interbred",
+    "past_participle": "interbred",
+    "signification": "giao phối, lai giống",
+    "stt": "98"
+  },
+  {
+    "infinitive": "interweave",
+    "past": "interwove/interweaved",
+    "past_participle": "interwoven/interweaved",
+    "signification": "trộn lẫn, xen lẫn",
+    "stt": "99"
+  },
+  {
+    "infinitive": "interwind",
+    "past": "interwound",
+    "past_participle": "interwound",
+    "signification": "cuộn vào, quấn vào",
+    "stt": "100"
+  },
+  {
+    "infinitive": "jerry-build",
+    "past": "jerry-built",
+    "past_participle": "jerry-built",
+    "signification": "xây dựng cẩu thả",
+    "stt": "101"
+  },
+  {
+    "infinitive": "keep",
+    "past": "kept",
+    "past_participle": "kept",
+    "signification": "giữ",
+    "stt": "102"
+  },
+  {
+    "infinitive": "kneel",
+    "past": "knelt/kneeled",
+    "past_participle": "knelt/kneeled",
+    "signification": "quỳ",
+    "stt": "103"
+  },
+  {
+    "infinitive": "knit",
+    "past": "knit/knitted",
+    "past_participle": "knit/knitted",
+    "signification": "đan",
+    "stt": "104"
+  },
+  {
+    "infinitive": "know",
+    "past": "knew",
+    "past_participle": "known",
+    "signification": "biết, quen biết",
+    "stt": "105"
+  },
+  {
+    "infinitive": "lay",
+    "past": "laid",
+    "past_participle": "laid",
+    "signification": "đặt, để",
+    "stt": "106"
+  },
+  {
+    "infinitive": "lead",
+    "past": "led",
+    "past_participle": "led",
+    "signification": "dẫn dắt, lãnh đạo",
+    "stt": "107"
+  },
+  {
+    "infinitive": "lean",
+    "past": "leaned/leant ",
+    "past_participle": "leaned/leant ",
+    "signification": "dựa, tựa",
+    "stt": "108"
+  },
+  {
+    "infinitive": "leap",
+    "past": "leapt",
+    "past_participle": "leapt",
+    "signification": "nhảy, nhảy qua",
+    "stt": "109"
+  },
+  {
+    "infinitive": "learn",
+    "past": "learnt/learned",
+    "past_participle": "learnt/learned",
+    "signification": "học, được biết",
+    "stt": "110"
+  },
+  {
+    "infinitive": "leave",
+    "past": "left",
+    "past_participle": "left",
+    "signification": "ra đi, để lại",
+    "stt": "111"
+  },
+  {
+    "infinitive": "lend",
+    "past": "lent",
+    "past_participle": "lent",
+    "signification": "cho mượn",
+    "stt": "112"
+  },
+  {
+    "infinitive": "let",
+    "past": "let",
+    "past_participle": "let",
+    "signification": "cho phép, để cho",
+    "stt": "113"
+  },
+  {
+    "infinitive": "lie",
+    "past": "lay",
+    "past_participle": "lain",
+    "signification": "nằm",
+    "stt": "114"
+  },
+  {
+    "infinitive": "light",
+    "past": "lit/lighted",
+    "past_participle": "lit/lighted",
+    "signification": "thắp sáng",
+    "stt": "115"
+  },
+  {
+    "infinitive": "lip-read",
+    "past": "lip-read",
+    "past_participle": "lip-read",
+    "signification": "mấp máy môi",
+    "stt": "116"
+  },
+  {
+    "infinitive": "lose",
+    "past": "lost",
+    "past_participle": "lost",
+    "signification": "làm mất, mất",
+    "stt": "117"
+  },
+  {
+    "infinitive": "make",
+    "past": "made",
+    "past_participle": "made",
+    "signification": "chế tạo, sản xuất",
+    "stt": "118"
+  },
+  {
+    "infinitive": "mean",
+    "past": "meant",
+    "past_participle": "meant",
+    "signification": "có nghĩa là",
+    "stt": "119"
+  },
+  {
+    "infinitive": "meet",
+    "past": "met",
+    "past_participle": "met",
+    "signification": "gặp mặt",
+    "stt": "120"
+  },
+  {
+    "infinitive": "miscast",
+    "past": "miscast",
+    "past_participle": "miscast",
+    "signification": "chọn vai đóng không hợp",
+    "stt": "121"
+  },
+  {
+    "infinitive": "misdeal",
+    "past": "misdealt",
+    "past_participle": "misdealt",
+    "signification": "chia lộn bài, chia bài sai",
+    "stt": "122"
+  },
+  {
+    "infinitive": "misdo",
+    "past": "misdid",
+    "past_participle": "misdone",
+    "signification": "phạm lỗi",
+    "stt": "123"
+  },
+  {
+    "infinitive": "mishear",
+    "past": "misheard",
+    "past_participle": "misheard",
+    "signification": "nghe nhầm",
+    "stt": "124"
+  },
+  {
+    "infinitive": "mislay",
+    "past": "mislaid",
+    "past_participle": "mislaid",
+    "signification": "để lạc mất",
+    "stt": "125"
+  },
+  {
+    "infinitive": "mislead",
+    "past": "misled",
+    "past_participle": "misled",
+    "signification": "làm lạc đường",
+    "stt": "126"
+  },
+  {
+    "infinitive": "mislearn",
+    "past": "mislearned/mislearnt",
+    "past_participle": "mislearned/mislearnt",
+    "signification": "học nhầm",
+    "stt": "127"
+  },
+  {
+    "infinitive": "misread",
+    "past": "misread",
+    "past_participle": "misread",
+    "signification": "đọc sai",
+    "stt": "128"
+  },
+  {
+    "infinitive": "misset",
+    "past": "misset",
+    "past_participle": "misset ",
+    "signification": "đặt sai chỗ",
+    "stt": "129"
+  },
+  {
+    "infinitive": "misspeak",
+    "past": "misspoke",
+    "past_participle": "misspoken",
+    "signification": "nói sai",
+    "stt": "130"
+  },
+  {
+    "infinitive": "misspell",
+    "past": "misspelt",
+    "past_participle": "misspelt",
+    "signification": "viết sai chính tả",
+    "stt": "131"
+  },
+  {
+    "infinitive": "misspend",
+    "past": "misspent",
+    "past_participle": "misspent",
+    "signification": "tiêu phí, bỏ phí",
+    "stt": "132"
+  },
+  {
+    "infinitive": "mistake",
+    "past": "mistook",
+    "past_participle": "mistaken",
+    "signification": "phạm lỗi, lầm lẫn",
+    "stt": "133"
+  },
+  {
+    "infinitive": "misteach",
+    "past": "mistaught",
+    "past_participle": "mistaught",
+    "signification": "dạy sai",
+    "stt": "134"
+  },
+  {
+    "infinitive": "misunderstand",
+    "past": "misunderstood",
+    "past_participle": "misunderstood",
+    "signification": "hiểu lầm",
+    "stt": "135"
+  },
+  {
+    "infinitive": "miswrite",
+    "past": "miswrote",
+    "past_participle": "miswritten",
+    "signification": "viết sai",
+    "stt": "136"
+  },
+  {
+    "infinitive": "mow",
+    "past": "mowed",
+    "past_participle": "mown/mowed",
+    "signification": "cắt cỏ",
+    "stt": "137"
+  },
+  {
+    "infinitive": "offset",
+    "past": "offset",
+    "past_participle": "offset",
+    "signification": "đền bù",
+    "stt": "138"
+  },
+  {
+    "infinitive": "outbid",
+    "past": "outbid",
+    "past_participle": "outbid",
+    "signification": "trả hơn giá",
+    "stt": "139"
+  },
+  {
+    "infinitive": "outbreed",
+    "past": "outbred",
+    "past_participle": "outbred",
+    "signification": "giao phối xa",
+    "stt": "140"
+  },
+  {
+    "infinitive": "outdo",
+    "past": "outdid",
+    "past_participle": "outdone",
+    "signification": "làm giỏi hơn",
+    "stt": "141"
+  },
+  {
+    "infinitive": "outdraw",
+    "past": "outdrew",
+    "past_participle": "outdrawn",
+    "signification": "rút súng ra nhanh hơn",
+    "stt": "142"
+  },
+  {
+    "infinitive": "outdrink",
+    "past": "outdrank",
+    "past_participle": "outdrunk",
+    "signification": "uống quá chén",
+    "stt": "143"
+  },
+  {
+    "infinitive": "outdrive",
+    "past": "outdrove",
+    "past_participle": "outdriven",
+    "signification": "lái nhanh hơn",
+    "stt": "144"
+  },
+  {
+    "infinitive": "outfight",
+    "past": "outfought",
+    "past_participle": "outfought",
+    "signification": "đánh giỏi hơn",
+    "stt": "145"
+  },
+  {
+    "infinitive": "outfly",
+    "past": "outflew",
+    "past_participle": "outflown",
+    "signification": "bay cao/xa hơn",
+    "stt": "146"
+  },
+  {
+    "infinitive": "outgrow",
+    "past": "outgrew",
+    "past_participle": "outgrown",
+    "signification": "lớn nhanh hơn",
+    "stt": "147"
+  },
+  {
+    "infinitive": "outleap",
+    "past": "outleaped/outleapt ",
+    "past_participle": "outleaped/outleapt",
+    "signification": "nhảy cao/xa hơn",
+    "stt": "148"
+  },
+  {
+    "infinitive": "outlie (not tell truth) REGULAR",
+    "past": "outlied",
+    "past_participle": "outlied",
+    "signification": "nói dối",
+    "stt": "149"
+  },
+  {
+    "infinitive": "output",
+    "past": "output",
+    "past_participle": "output",
+    "signification": "cho ra (dữ kiện)",
+    "stt": "150"
+  },
+  {
+    "infinitive": "outride",
+    "past": "outrode",
+    "past_participle": "outridden",
+    "signification": "cưỡi ngựa giỏi hơn",
+    "stt": "151"
+  },
+  {
+    "infinitive": "outrun",
+    "past": "outran",
+    "past_participle": "outrun",
+    "signification": "chạy nhanh hơn, vượt giá",
+    "stt": "152"
+  },
+  {
+    "infinitive": "outsell",
+    "past": "outsold",
+    "past_participle": "outsold",
+    "signification": "bán nhanh hơn",
+    "stt": "153"
+  },
+  {
+    "infinitive": "outshine",
+    "past": "outshined/outshone ",
+    "past_participle": "outshined/outshone",
+    "signification": "sáng hơn, rạng rỡ hơn",
+    "stt": "154"
+  },
+  {
+    "infinitive": "outshoot",
+    "past": "outshot",
+    "past_participle": "outshot ",
+    "signification": "bắn giỏi hơn, nảy mầm, mọc",
+    "stt": "155"
+  },
+  {
+    "infinitive": "outsing",
+    "past": "outsang",
+    "past_participle": "outsung",
+    "signification": "hát hay hơn",
+    "stt": "156"
+  },
+  {
+    "infinitive": "outsit",
+    "past": "outsat",
+    "past_participle": "outsat",
+    "signification": "ngồi lâu hơn",
+    "stt": "157"
+  },
+  {
+    "infinitive": "outsleep",
+    "past": "outslept",
+    "past_participle": "outslept",
+    "signification": "ngủ lâu/muộn hơn",
+    "stt": "158"
+  },
+  {
+    "infinitive": "outsmell",
+    "past": "outsmelled/outsmelt ",
+    "past_participle": "outsmelled/outsmelt",
+    "signification": "khám phá, đánh hơi, sặc mùi",
+    "stt": "159"
+  },
+  {
+    "infinitive": "outspeak",
+    "past": "outspoke",
+    "past_participle": "outspoken ",
+    "signification": "nói nhiều/dài/to hơn",
+    "stt": "160"
+  },
+  {
+    "infinitive": "outspeed",
+    "past": "outsped",
+    "past_participle": "outsped",
+    "signification": "đi/chạy nhanh hơn",
+    "stt": "161"
+  },
+  {
+    "infinitive": "outspend",
+    "past": "outspent",
+    "past_participle": "outspent",
+    "signification": "tiêu tiền nhiều hơn",
+    "stt": "162"
+  },
+  {
+    "infinitive": "outswear",
+    "past": "outswore",
+    "past_participle": "outsworn",
+    "signification": "nguyền rủa nhiều hơn",
+    "stt": "163"
+  },
+  {
+    "infinitive": "outswim",
+    "past": "outswam",
+    "past_participle": "outswum",
+    "signification": "bơi giỏi hơn",
+    "stt": "164"
+  },
+  {
+    "infinitive": "outthink",
+    "past": "outthought",
+    "past_participle": "outthought",
+    "signification": "suy nghĩ nhanh hơn",
+    "stt": "165"
+  },
+  {
+    "infinitive": "outthrow",
+    "past": "outthrew",
+    "past_participle": "outthrown",
+    "signification": "ném nhanh hơn",
+    "stt": "166"
+  },
+  {
+    "infinitive": "outwrite",
+    "past": "outwrote",
+    "past_participle": "outwritten",
+    "signification": "viết nhanh hơn",
+    "stt": "167"
+  },
+  {
+    "infinitive": "overbid",
+    "past": "overbid",
+    "past_participle": "overbid",
+    "signification": "trả giá/bỏ thầu cao hơn",
+    "stt": "168"
+  },
+  {
+    "infinitive": "overbreed",
+    "past": "overbred",
+    "past_participle": "overbred",
+    "signification": "nuôi quá nhiều",
+    "stt": "169"
+  },
+  {
+    "infinitive": "overbuild",
+    "past": "overbuilt",
+    "past_participle": "overbuilt",
+    "signification": "xây quá nhiều",
+    "stt": "170"
+  },
+  {
+    "infinitive": "overbuy",
+    "past": "overbought",
+    "past_participle": "overbought",
+    "signification": "mua quá nhiều",
+    "stt": "171"
+  },
+  {
+    "infinitive": "overcome",
+    "past": "overcame",
+    "past_participle": "overcome",
+    "signification": "khắc phục",
+    "stt": "172"
+  },
+  {
+    "infinitive": "overdo",
+    "past": "overdid",
+    "past_participle": "overdone",
+    "signification": "dùng quá mức, làm quá",
+    "stt": "173"
+  },
+  {
+    "infinitive": "overdraw",
+    "past": "overdrew",
+    "past_participle": "overdrawn",
+    "signification": "rút quá số tiền, phóng đại",
+    "stt": "174"
+  },
+  {
+    "infinitive": "overdrink",
+    "past": "overdrank",
+    "past_participle": "overdrunk",
+    "signification": "uống quá nhiều",
+    "stt": "175"
+  },
+  {
+    "infinitive": "overeat",
+    "past": "overate",
+    "past_participle": "overeaten",
+    "signification": "ăn quá nhiều",
+    "stt": "176"
+  },
+  {
+    "infinitive": "overfeed",
+    "past": "overfed",
+    "past_participle": "overfed",
+    "signification": "cho ăn quá mức",
+    "stt": "177"
+  },
+  {
+    "infinitive": "overfly",
+    "past": "overflew",
+    "past_participle": "overflown",
+    "signification": "bay qua",
+    "stt": "178"
+  },
+  {
+    "infinitive": "overhang",
+    "past": "overhung",
+    "past_participle": "overhung",
+    "signification": "nhô lên trên, treo lơ lửng",
+    "stt": "179"
+  },
+  {
+    "infinitive": "overhear",
+    "past": "overheard",
+    "past_participle": "overheard",
+    "signification": "nghe trộm",
+    "stt": "180"
+  },
+  {
+    "infinitive": "overlay",
+    "past": "overlaid",
+    "past_participle": "overlaid",
+    "signification": "phủ lên",
+    "stt": "181"
+  },
+  {
+    "infinitive": "overpay",
+    "past": "overpaid",
+    "past_participle": "overpaid",
+    "signification": "trả quá tiền",
+    "stt": "182"
+  },
+  {
+    "infinitive": "override",
+    "past": "overrode",
+    "past_participle": "overridden",
+    "signification": "lạm quyền",
+    "stt": "183"
+  },
+  {
+    "infinitive": "overrun",
+    "past": "overran",
+    "past_participle": "overrun",
+    "signification": "tràn ngập",
+    "stt": "184"
+  },
+  {
+    "infinitive": "oversee",
+    "past": "oversaw",
+    "past_participle": "overseen",
+    "signification": "trông nom",
+    "stt": "185"
+  },
+  {
+    "infinitive": "oversell",
+    "past": "oversold",
+    "past_participle": "oversold",
+    "signification": "bán quá mức",
+    "stt": "186"
+  },
+  {
+    "infinitive": "oversew",
+    "past": "oversewed",
+    "past_participle": "oversewn/oversewed",
+    "signification": "may nối vắt",
+    "stt": "187"
+  },
+  {
+    "infinitive": "overshoot",
+    "past": "overshot",
+    "past_participle": "overshot",
+    "signification": "đi quá đích",
+    "stt": "188"
+  },
+  {
+    "infinitive": "oversleep",
+    "past": "overslept",
+    "past_participle": "overslept",
+    "signification": "ngủ quên",
+    "stt": "189"
+  },
+  {
+    "infinitive": "overspeak",
+    "past": "overspoke",
+    "past_participle": "overspoken",
+    "signification": "Nói quá nhiều, nói lấn át",
+    "stt": "190"
+  },
+  {
+    "infinitive": "overspend",
+    "past": "overspent",
+    "past_participle": "overspent",
+    "signification": "tiêu quá lố",
+    "stt": "191"
+  },
+  {
+    "infinitive": "overspill",
+    "past": "overspilled/overspilt",
+    "past_participle": "overspilled/overspilt",
+    "signification": "đổ, làm tràn",
+    "stt": "192"
+  },
+  {
+    "infinitive": "overtake",
+    "past": "overtook",
+    "past_participle": "overtaken",
+    "signification": "đuổi bắt kịp",
+    "stt": "193"
+  },
+  {
+    "infinitive": "overthink",
+    "past": "overthought",
+    "past_participle": "overthought",
+    "signification": "tính trước nhiều quá",
+    "stt": "194"
+  },
+  {
+    "infinitive": "overthrow",
+    "past": "overthrew",
+    "past_participle": "overthrown",
+    "signification": "lật đổ",
+    "stt": "195"
+  },
+  {
+    "infinitive": "overwind",
+    "past": "overwound",
+    "past_participle": "overwound",
+    "signification": "lên dây (đồng hồ) quá chặt",
+    "stt": "196"
+  },
+  {
+    "infinitive": "overwrite",
+    "past": "overwrote",
+    "past_participle": "overwritten",
+    "signification": "viết dài quá, viết đè lên",
+    "stt": "197"
+  },
+  {
+    "infinitive": "partake",
+    "past": "partook",
+    "past_participle": "partaken",
+    "signification": "tham gia, dự phần",
+    "stt": "198"
+  },
+  {
+    "infinitive": "pay",
+    "past": "paid",
+    "past_participle": "paid",
+    "signification": "trả (tiền)",
+    "stt": "199"
+  },
+  {
+    "infinitive": "plead",
+    "past": "pleaded/pled",
+    "past_participle": "pleaded/pled",
+    "signification": "bào chữa, biện hộ",
+    "stt": "200"
+  },
+  {
+    "infinitive": "prebuild",
+    "past": "prebuilt",
+    "past_participle": "prebuilt",
+    "signification": "làm nhà tiền chế",
+    "stt": "201"
+  },
+  {
+    "infinitive": "predo",
+    "past": "predid",
+    "past_participle": "predone",
+    "signification": "làm trước",
+    "stt": "202"
+  },
+  {
+    "infinitive": "premake",
+    "past": "premade",
+    "past_participle": "premade",
+    "signification": "làm trước",
+    "stt": "203"
+  },
+  {
+    "infinitive": "prepay",
+    "past": "prepaid",
+    "past_participle": "prepaid",
+    "signification": "trả trước",
+    "stt": "204"
+  },
+  {
+    "infinitive": "presell",
+    "past": "presold",
+    "past_participle": "presold",
+    "signification": "bán trước thời gian rao báo",
+    "stt": "205"
+  },
+  {
+    "infinitive": "preset",
+    "past": "preset",
+    "past_participle": "preset",
+    "signification": "thiết lập sẵn, cài đặt sẵn",
+    "stt": "206"
+  },
+  {
+    "infinitive": "preshrink",
+    "past": "preshrank",
+    "past_participle": "preshrunk",
+    "signification": "ngâm cho vải co trước khi may",
+    "stt": "207"
+  },
+  {
+    "infinitive": "proofread",
+    "past": "proofread",
+    "past_participle": "proofread",
+    "signification": "Đọc bản thảo trước khi in",
+    "stt": "208"
+  },
+  {
+    "infinitive": "prove",
+    "past": "proved",
+    "past_participle": "proven/proved",
+    "signification": "chứng minh",
+    "stt": "209"
+  },
+  {
+    "infinitive": "put",
+    "past": "put",
+    "past_participle": "put",
+    "signification": "đặt, để",
+    "stt": "210"
+  },
+  {
+    "infinitive": "quick-freeze",
+    "past": "quick-froze",
+    "past_participle": "quick-frozen",
+    "signification": "kết đông nhanh",
+    "stt": "211"
+  },
+  {
+    "infinitive": "quit",
+    "past": "quit/quitted ",
+    "past_participle": "quit/quitted",
+    "signification": "bỏ",
+    "stt": "212"
+  },
+  {
+    "infinitive": "read/riːd /",
+    "past": "read  /red /",
+    "past_participle": "read/red  /",
+    "signification": "đọc",
+    "stt": "213"
+  },
+  {
+    "infinitive": "reawake",
+    "past": "reawoke",
+    "past_participle": "reawaken",
+    "signification": "đánh thức 1 lần nữa",
+    "stt": "214"
+  },
+  {
+    "infinitive": "rebid",
+    "past": "rebid",
+    "past_participle": "rebid",
+    "signification": "trả giá, bỏ thầu",
+    "stt": "215"
+  },
+  {
+    "infinitive": "rebind",
+    "past": "rebound",
+    "past_participle": "rebound",
+    "signification": "buộc lại, đóng lại",
+    "stt": "216"
+  },
+  {
+    "infinitive": "rebroadcast",
+    "past": "rebroadcast/rebroadcasted",
+    "past_participle": "rebroadcast/rebroadcasted",
+    "signification": "cự tuyệt, khước từ",
+    "stt": "217"
+  },
+  {
+    "infinitive": "rebuild",
+    "past": "rebuilt",
+    "past_participle": "rebuilt",
+    "signification": "xây dựng lại",
+    "stt": "218"
+  },
+  {
+    "infinitive": "recast",
+    "past": "recast",
+    "past_participle": "recast",
+    "signification": "đúc lại",
+    "stt": "219"
+  },
+  {
+    "infinitive": "recut",
+    "past": "recut",
+    "past_participle": "recut",
+    "signification": "cắt lại, băm)",
+    "stt": "220"
+  },
+  {
+    "infinitive": "redeal",
+    "past": "redealt",
+    "past_participle": "redealt",
+    "signification": "phát bài lại",
+    "stt": "221"
+  },
+  {
+    "infinitive": "redo",
+    "past": "redid",
+    "past_participle": "redone",
+    "signification": "làm lại",
+    "stt": "222"
+  },
+  {
+    "infinitive": "redraw",
+    "past": "redrew",
+    "past_participle": "redrawn",
+    "signification": "kéo ngược lại",
+    "stt": "223"
+  },
+  {
+    "infinitive": "refit (retailor)",
+    "past": "refitted/refit ",
+    "past_participle": "refitted/refit",
+    "signification": "luồn, xỏ",
+    "stt": "224"
+  },
+  {
+    "infinitive": "regrind",
+    "past": "reground",
+    "past_participle": "reground",
+    "signification": "mài sắc lại",
+    "stt": "225"
+  },
+  {
+    "infinitive": "regrow",
+    "past": "regrew",
+    "past_participle": "regrown",
+    "signification": "trồng lại",
+    "stt": "226"
+  },
+  {
+    "infinitive": "rehang",
+    "past": "rehung",
+    "past_participle": "rehung",
+    "signification": "treo lại",
+    "stt": "227"
+  },
+  {
+    "infinitive": "rehear",
+    "past": "reheard",
+    "past_participle": "reheard",
+    "signification": "nghe trình bày lại ",
+    "stt": "228"
+  },
+  {
+    "infinitive": "reknit",
+    "past": "reknitted/reknit",
+    "past_participle": "reknitted/reknit",
+    "signification": "đan lại",
+    "stt": "229"
+  },
+  {
+    "infinitive": "relay (for example tiles)",
+    "past": "relaid",
+    "past_participle": "relaid",
+    "signification": "đặt lại",
+    "stt": "230"
+  },
+  {
+    "infinitive": "relay (pass along) REGULAR",
+    "past": "relayed",
+    "past_participle": "relayed",
+    "signification": "truyền âm lại",
+    "stt": "231"
+  },
+  {
+    "infinitive": "relearn",
+    "past": "relearned/relearnt",
+    "past_participle": "relearned/relearnt ",
+    "signification": "học lại",
+    "stt": "232"
+  },
+  {
+    "infinitive": "relight",
+    "past": "relit/relighted",
+    "past_participle": "relit/relighted",
+    "signification": "thắp sáng lại",
+    "stt": "233"
+  },
+  {
+    "infinitive": "remake",
+    "past": "remade",
+    "past_participle": "remade",
+    "signification": "làm lại, chế tạo lại",
+    "stt": "234"
+  },
+  {
+    "infinitive": "rend",
+    "past": "rent",
+    "past_participle": "rent",
+    "signification": "toạc ra, xé",
+    "stt": "235"
+  },
+  {
+    "infinitive": "repay",
+    "past": "repaid",
+    "past_participle": "repaid",
+    "signification": "hoàn tiền lại",
+    "stt": "236"
+  },
+  {
+    "infinitive": "reread",
+    "past": "reread",
+    "past_participle": "reread",
+    "signification": "đọc lại",
+    "stt": "237"
+  },
+  {
+    "infinitive": "rerun",
+    "past": "reran",
+    "past_participle": "rerun",
+    "signification": "chiếu lại, phát lại",
+    "stt": "238"
+  },
+  {
+    "infinitive": "resell",
+    "past": "resold",
+    "past_participle": "resold",
+    "signification": "bán lại",
+    "stt": "239"
+  },
+  {
+    "infinitive": "resend",
+    "past": "resent",
+    "past_participle": "resent",
+    "signification": "gửi lại",
+    "stt": "240"
+  },
+  {
+    "infinitive": "reset",
+    "past": "reset",
+    "past_participle": "reset",
+    "signification": "đặt lại, lắp lại",
+    "stt": "241"
+  },
+  {
+    "infinitive": "resew",
+    "past": "resewed",
+    "past_participle": "resewn/resewed",
+    "signification": "may/khâu lại",
+    "stt": "242"
+  },
+  {
+    "infinitive": "retake",
+    "past": "retook",
+    "past_participle": "retaken",
+    "signification": "chiếm lại,tái chiếm",
+    "stt": "243"
+  },
+  {
+    "infinitive": "reteach",
+    "past": "retaught",
+    "past_participle": "retaught",
+    "signification": "dạy lại",
+    "stt": "244"
+  },
+  {
+    "infinitive": "retear",
+    "past": "retore",
+    "past_participle": "retorn",
+    "signification": "khóc lại",
+    "stt": "245"
+  },
+  {
+    "infinitive": "retell",
+    "past": "retold",
+    "past_participle": "retold",
+    "signification": "kể lại",
+    "stt": "246"
+  },
+  {
+    "infinitive": "rethink",
+    "past": "rethought",
+    "past_participle": "rethought",
+    "signification": "suy tính lại",
+    "stt": "247"
+  },
+  {
+    "infinitive": "retread",
+    "past": "retread",
+    "past_participle": "retread",
+    "signification": "lại giẫm/đạp lên",
+    "stt": "248"
+  },
+  {
+    "infinitive": "retrofit",
+    "past": "retrofitted/retrofit ",
+    "past_participle": "retrofitted/retrofit",
+    "signification": "trang bị thêm những bộ phận mới",
+    "stt": "249"
+  },
+  {
+    "infinitive": "rewake",
+    "past": "rewoke/rewaked",
+    "past_participle": "rewaken/rewaked ",
+    "signification": "đánh thức lại",
+    "stt": "250"
+  },
+  {
+    "infinitive": "rewear",
+    "past": "rewore",
+    "past_participle": "reworn",
+    "signification": "mặc lại",
+    "stt": "251"
+  },
+  {
+    "infinitive": "reweave",
+    "past": "rewove/reweaved",
+    "past_participle": "rewoven/reweaved",
+    "signification": "dệt lại",
+    "stt": "252"
+  },
+  {
+    "infinitive": "rewed",
+    "past": "rewed/rewedded",
+    "past_participle": "rewed/rewedded",
+    "signification": "kết hôn lại",
+    "stt": "253"
+  },
+  {
+    "infinitive": "rewet",
+    "past": "rewet/rewetted",
+    "past_participle": "rewet/rewetted",
+    "signification": "làm ướt lại",
+    "stt": "254"
+  },
+  {
+    "infinitive": "rewin",
+    "past": "rewon",
+    "past_participle": "rewon",
+    "signification": "thắng lại",
+    "stt": "255"
+  },
+  {
+    "infinitive": "rewind",
+    "past": "rewound",
+    "past_participle": "rewound",
+    "signification": "cuốn lại, lên dây lại",
+    "stt": "256"
+  },
+  {
+    "infinitive": "rewrite",
+    "past": "rewrote",
+    "past_participle": "rewritten",
+    "signification": "viết lại",
+    "stt": "257"
+  },
+  {
+    "infinitive": "rid",
+    "past": "rid",
+    "past_participle": "rid",
+    "signification": "giải thoát",
+    "stt": "258"
+  },
+  {
+    "infinitive": "ride",
+    "past": "rode",
+    "past_participle": "ridden",
+    "signification": "cưỡi",
+    "stt": "259"
+  },
+  {
+    "infinitive": "ring",
+    "past": "rang",
+    "past_participle": "rung",
+    "signification": "rung chuông",
+    "stt": "260"
+  },
+  {
+    "infinitive": "rise",
+    "past": "rose",
+    "past_participle": "risen",
+    "signification": "đứng dậy, mọc",
+    "stt": "261"
+  },
+  {
+    "infinitive": "roughcast",
+    "past": "roughcast",
+    "past_participle": "roughcast",
+    "signification": "tạo hình phỏng chừng ",
+    "stt": "262"
+  },
+  {
+    "infinitive": "run",
+    "past": "ran",
+    "past_participle": "run",
+    "signification": "chạy",
+    "stt": "263"
+  },
+  {
+    "infinitive": "sand-cast",
+    "past": "sand-cast",
+    "past_participle": "sand-cast",
+    "signification": "đúc bằng khuôn cát",
+    "stt": "264"
+  },
+  {
+    "infinitive": "saw",
+    "past": "sawed",
+    "past_participle": "sawn",
+    "signification": "cưa",
+    "stt": "265"
+  },
+  {
+    "infinitive": "say",
+    "past": "said",
+    "past_participle": "said",
+    "signification": "nói",
+    "stt": "266"
+  },
+  {
+    "infinitive": "see",
+    "past": "saw",
+    "past_participle": "seen",
+    "signification": "nhìn thấy",
+    "stt": "267"
+  },
+  {
+    "infinitive": "seek",
+    "past": "sought",
+    "past_participle": "sought",
+    "signification": "tìm kiếm",
+    "stt": "268"
+  },
+  {
+    "infinitive": "sell",
+    "past": "sold",
+    "past_participle": "sold",
+    "signification": "bán",
+    "stt": "269"
+  },
+  {
+    "infinitive": "send",
+    "past": "sent",
+    "past_participle": "sent",
+    "signification": "gửi",
+    "stt": "270"
+  },
+  {
+    "infinitive": "set",
+    "past": "set",
+    "past_participle": "set",
+    "signification": "đặt, thiết lập",
+    "stt": "271"
+  },
+  {
+    "infinitive": "sew",
+    "past": "sewed",
+    "past_participle": "sewn/sewed",
+    "signification": "may",
+    "stt": "272"
+  },
+  {
+    "infinitive": "shake",
+    "past": "shook",
+    "past_participle": "shaken",
+    "signification": "lay, lắc",
+    "stt": "273"
+  },
+  {
+    "infinitive": "shave",
+    "past": "shaved",
+    "past_participle": "shaved/shaven",
+    "signification": "cạo (râu, mặt)",
+    "stt": "274"
+  },
+  {
+    "infinitive": "shear",
+    "past": "sheared",
+    "past_participle": "shorn",
+    "signification": "xén lông (cừu)",
+    "stt": "275"
+  },
+  {
+    "infinitive": "shed",
+    "past": "shed",
+    "past_participle": "shed",
+    "signification": "rơi, rụng",
+    "stt": "276"
+  },
+  {
+    "infinitive": "shine",
+    "past": "shone",
+    "past_participle": "shone",
+    "signification": "chiếu sáng",
+    "stt": "277"
+  },
+  {
+    "infinitive": "shit",
+    "past": "shit/shat/shitted",
+    "past_participle": "shit/shat/shitted",
+    "signification": "suộc khuộng đi đại tiện",
+    "stt": "278"
+  },
+  {
+    "infinitive": "shoot",
+    "past": "shot",
+    "past_participle": "shot",
+    "signification": "bắn",
+    "stt": "279"
+  },
+  {
+    "infinitive": "show",
+    "past": "showed",
+    "past_participle": "shown/showed",
+    "signification": "cho xem",
+    "stt": "280"
+  },
+  {
+    "infinitive": "shrink",
+    "past": "shrank",
+    "past_participle": "shrunk",
+    "signification": "co rút",
+    "stt": "281"
+  },
+  {
+    "infinitive": "shut",
+    "past": "shut",
+    "past_participle": "shut",
+    "signification": "đóng lại",
+    "stt": "282"
+  },
+  {
+    "infinitive": "sight-read",
+    "past": "sight-read",
+    "past_participle": "sight-read",
+    "signification": "chơi hoặc hát mà không cần nghiên cứu trước",
+    "stt": "283"
+  },
+  {
+    "infinitive": "sing",
+    "past": "sang",
+    "past_participle": "sung",
+    "signification": "ca hát",
+    "stt": "284"
+  },
+  {
+    "infinitive": "sink",
+    "past": "sank",
+    "past_participle": "sunk",
+    "signification": "chìm, lặn",
+    "stt": "285"
+  },
+  {
+    "infinitive": "sit",
+    "past": "sat",
+    "past_participle": "sat",
+    "signification": "ngồi",
+    "stt": "286"
+  },
+  {
+    "infinitive": "slay",
+    "past": "slew",
+    "past_participle": "slain",
+    "signification": "sát hại, giết hại",
+    "stt": "287"
+  },
+  {
+    "infinitive": "sleep",
+    "past": "slept",
+    "past_participle": "slept",
+    "signification": "ngủ",
+    "stt": "288"
+  },
+  {
+    "infinitive": "slide",
+    "past": "slid",
+    "past_participle": "slid",
+    "signification": "trượt, lướt",
+    "stt": "289"
+  },
+  {
+    "infinitive": "sling",
+    "past": "slung",
+    "past_participle": "slung",
+    "signification": "ném mạnh",
+    "stt": "290"
+  },
+  {
+    "infinitive": "slink",
+    "past": "slunk",
+    "past_participle": "slunk",
+    "signification": "lẻn đi",
+    "stt": "291"
+  },
+  {
+    "infinitive": "slit",
+    "past": "slit",
+    "past_participle": "slit",
+    "signification": "rạch, khứa",
+    "stt": "292"
+  },
+  {
+    "infinitive": "smell",
+    "past": "smelt",
+    "past_participle": "smelt",
+    "signification": "ngửi",
+    "stt": "293"
+  },
+  {
+    "infinitive": "smite",
+    "past": "smote",
+    "past_participle": "smitten",
+    "signification": "đập mạnh",
+    "stt": "294"
+  },
+  {
+    "infinitive": "sneak",
+    "past": "sneaked/snuck",
+    "past_participle": "sneaked/snuck",
+    "signification": "trốn, lén",
+    "stt": "295"
+  },
+  {
+    "infinitive": "speak",
+    "past": "spoke",
+    "past_participle": "spoken",
+    "signification": "nói",
+    "stt": "296"
+  },
+  {
+    "infinitive": "speed",
+    "past": "sped/speeded",
+    "past_participle": "sped/speeded",
+    "signification": "chạy vụt",
+    "stt": "298"
+  },
+  {
+    "infinitive": "spell",
+    "past": "spelt/spelled",
+    "past_participle": "spelt/spelled",
+    "signification": "đánh vần",
+    "stt": "299"
+  },
+  {
+    "infinitive": "spend",
+    "past": "spent",
+    "past_participle": "spent",
+    "signification": "tiêu xài",
+    "stt": "300"
+  },
+  {
+    "infinitive": "spill",
+    "past": "spilt/spilled",
+    "past_participle": "spilt/spilled",
+    "signification": "tràn, đổ ra",
+    "stt": "301"
+  },
+  {
+    "infinitive": "spin",
+    "past": "spun/span",
+    "past_participle": "spun",
+    "signification": "quay sợi",
+    "stt": "302"
+  },
+  {
+    "infinitive": "spoil",
+    "past": "spoilt/spoiled",
+    "past_participle": "spoilt/spoiled",
+    "signification": "làm hỏng",
+    "stt": "303"
+  },
+  {
+    "infinitive": "spread",
+    "past": "spread",
+    "past_participle": "spread",
+    "signification": "lan truyền",
+    "stt": "304"
+  },
+  {
+    "infinitive": "stand",
+    "past": "stood",
+    "past_participle": "stood",
+    "signification": "đứng",
+    "stt": "305"
+  },
+  {
+    "infinitive": "steal",
+    "past": "stole",
+    "past_participle": "stolen",
+    "signification": "đánh cắp",
+    "stt": "305"
+  },
+  {
+    "infinitive": "stick",
+    "past": "stuck",
+    "past_participle": "stuck",
+    "signification": "ghim vào, đính",
+    "stt": "306"
+  },
+  {
+    "infinitive": "sting",
+    "past": "stung",
+    "past_participle": "stung",
+    "signification": "châm, chích, đốt",
+    "stt": "307"
+  },
+  {
+    "infinitive": "stink",
+    "past": "stunk/stank",
+    "past_participle": "stunk",
+    "signification": "bốc mùi hôi",
+    "stt": "308"
+  },
+  {
+    "infinitive": "stride",
+    "past": "strode",
+    "past_participle": "stridden",
+    "signification": "bước sải",
+    "stt": "309"
+  },
+  {
+    "infinitive": "strike",
+    "past": "struck",
+    "past_participle": "struck",
+    "signification": "đánh đập",
+    "stt": "310"
+  },
+  {
+    "infinitive": "string",
+    "past": "strung",
+    "past_participle": "strung",
+    "signification": "gắn dây vào",
+    "stt": "311"
+  },
+  {
+    "infinitive": "sunburn",
+    "past": "sunburned/sunburnt ",
+    "past_participle": "sunburned/sunburnt",
+    "signification": "cháy nắng",
+    "stt": "312"
+  },
+  {
+    "infinitive": "swear",
+    "past": "swore",
+    "past_participle": "sworn",
+    "signification": "tuyên thệ",
+    "stt": "313"
+  },
+  {
+    "infinitive": "sweat",
+    "past": "sweat/sweated",
+    "past_participle": "sweat/sweated ",
+    "signification": "đổ mồ hôi",
+    "stt": "314"
+  },
+  {
+    "infinitive": "sweep",
+    "past": "swept",
+    "past_participle": "swept",
+    "signification": "quét",
+    "stt": "315"
+  },
+  {
+    "infinitive": "swell",
+    "past": "swelled",
+    "past_participle": "swollen/swelled",
+    "signification": "phồng, sưng",
+    "stt": "316"
+  },
+  {
+    "infinitive": "swim",
+    "past": "swam",
+    "past_participle": "swum",
+    "signification": "bơi lội",
+    "stt": "317"
+  },
+  {
+    "infinitive": "swing",
+    "past": "swung",
+    "past_participle": "swung",
+    "signification": "đong đưa",
+    "stt": "318"
+  },
+  {
+    "infinitive": "take",
+    "past": "took",
+    "past_participle": "taken",
+    "signification": "cầm, lấy",
+    "stt": "319"
+  },
+  {
+    "infinitive": "teach",
+    "past": "taught",
+    "past_participle": "taught",
+    "signification": "dạy, giảng dạy",
+    "stt": "320"
+  },
+  {
+    "infinitive": "tear",
+    "past": "tore",
+    "past_participle": "torn",
+    "signification": "xé, rách",
+    "stt": "321"
+  },
+  {
+    "infinitive": "telecast",
+    "past": "telecast",
+    "past_participle": "telecast",
+    "signification": "phát đi bằng truyền hình",
+    "stt": "322"
+  },
+  {
+    "infinitive": "tell",
+    "past": "told",
+    "past_participle": "told",
+    "signification": "kể, bảo",
+    "stt": "323"
+  },
+  {
+    "infinitive": "think",
+    "past": "thought",
+    "past_participle": "thought",
+    "signification": "suy nghĩ",
+    "stt": "324"
+  },
+  {
+    "infinitive": "throw",
+    "past": "threw",
+    "past_participle": "thrown",
+    "signification": "ném,, liệng",
+    "stt": "325"
+  },
+  {
+    "infinitive": "thrust",
+    "past": "thrust",
+    "past_participle": "thrust",
+    "signification": "thọc, nhấn",
+    "stt": "326"
+  },
+  {
+    "infinitive": "tread",
+    "past": "trod",
+    "past_participle": "trodden/trod",
+    "signification": "giẫm, đạp",
+    "stt": "327"
+  },
+  {
+    "infinitive": "typewrite",
+    "past": "typewrote",
+    "past_participle": "typewritten",
+    "signification": "đánh máy",
+    "stt": "328"
+  },
+  {
+    "infinitive": "unbend",
+    "past": "unbent",
+    "past_participle": "unbent",
+    "signification": "làm thẳng lại",
+    "stt": "329"
+  },
+  {
+    "infinitive": "unbind",
+    "past": "unbound",
+    "past_participle": "unbound",
+    "signification": "mở, tháo ra",
+    "stt": "330"
+  },
+  {
+    "infinitive": "unclothe",
+    "past": "unclothed/unclad ",
+    "past_participle": "unclothed/unclad",
+    "signification": "cởi áo, lột trần",
+    "stt": "331"
+  },
+  {
+    "infinitive": "undercut",
+    "past": "undercut",
+    "past_participle": "undercut",
+    "signification": "ra giá rẻ hơn",
+    "stt": "332"
+  },
+  {
+    "infinitive": "underfeed",
+    "past": "underfed",
+    "past_participle": "underfed",
+    "signification": "cho ăn đói, thiếu ăn",
+    "stt": "333"
+  },
+  {
+    "infinitive": "undergo",
+    "past": "underwent",
+    "past_participle": "undergone",
+    "signification": "kinh qua",
+    "stt": "334"
+  },
+  {
+    "infinitive": "underlie",
+    "past": "underlay",
+    "past_participle": "underlain",
+    "signification": "nằm dưới",
+    "stt": "335"
+  },
+  {
+    "infinitive": "understand",
+    "past": "understood",
+    "past_participle": "understood",
+    "signification": "hiểu",
+    "stt": "336"
+  },
+  {
+    "infinitive": "undertake",
+    "past": "undertook",
+    "past_participle": "undertaken",
+    "signification": "đảm nhận",
+    "stt": "337"
+  },
+  {
+    "infinitive": "underwrite",
+    "past": "underwrote",
+    "past_participle": "underwritten",
+    "signification": "bảo hiểm",
+    "stt": "338"
+  },
+  {
+    "infinitive": "undo",
+    "past": "undid",
+    "past_participle": "undone",
+    "signification": "tháo ra",
+    "stt": "339"
+  },
+  {
+    "infinitive": "unfreeze",
+    "past": "unfroze",
+    "past_participle": "unfrozen",
+    "signification": "làm tan đông",
+    "stt": "340"
+  },
+  {
+    "infinitive": "unhang",
+    "past": "unhung",
+    "past_participle": "unhung",
+    "signification": "hạ xuống, bỏ xuống",
+    "stt": "341"
+  },
+  {
+    "infinitive": "unhide",
+    "past": "unhid",
+    "past_participle": "unhidden",
+    "signification": "hiển thị, không ẩn",
+    "stt": "342"
+  },
+  {
+    "infinitive": "unlearn",
+    "past": "unlearned/unlearnt ",
+    "past_participle": "unlearned/unlearnt",
+    "signification": "gạt bỏ, quên",
+    "stt": "343"
+  },
+  {
+    "infinitive": "unspin",
+    "past": "unspun",
+    "past_participle": "unspun",
+    "signification": "quay ngược",
+    "stt": "344"
+  },
+  {
+    "infinitive": "unwind",
+    "past": "unwound",
+    "past_participle": "unwound",
+    "signification": "tháo ra",
+    "stt": "345"
+  },
+  {
+    "infinitive": "uphold",
+    "past": "upheld",
+    "past_participle": "upheld",
+    "signification": "ủng hộ",
+    "stt": "346"
+  },
+  {
+    "infinitive": "upset",
+    "past": "upset",
+    "past_participle": "upset",
+    "signification": "đánh đổ, lật đổ",
+    "stt": "347"
+  },
+  {
+    "infinitive": "wake",
+    "past": "woke/waked",
+    "past_participle": "woken/waked",
+    "signification": "thức giấc",
+    "stt": "348"
+  },
+  {
+    "infinitive": "wear",
+    "past": "wore",
+    "past_participle": "worn",
+    "signification": "mặc",
+    "stt": "349"
+  },
+  {
+    "infinitive": "wed",
+    "past": "wed/wedded",
+    "past_participle": "wed/wedded",
+    "signification": "kết hôn",
+    "stt": "350"
+  },
+  {
+    "infinitive": "weep",
+    "past": "wept",
+    "past_participle": "wept",
+    "signification": "khóc",
+    "stt": "351"
+  },
+  {
+    "infinitive": "wet",
+    "past": "wet/wetted",
+    "past_participle": "wet/wetted",
+    "signification": "làm ướt",
+    "stt": "352"
+  },
+  {
+    "infinitive": "win",
+    "past": "won",
+    "past_participle": "won",
+    "signification": "thắng, chiến thắng",
+    "stt": "353"
+  },
+  {
+    "infinitive": "wind",
+    "past": "wound",
+    "past_participle": "wound",
+    "signification": "quấn",
+    "stt": "354"
+  },
+  {
+    "infinitive": "withdraw",
+    "past": "withdrew",
+    "past_participle": "withdrawn",
+    "signification": "rút lui",
+    "stt": "355"
+  },
+  {
+    "infinitive": "withhold",
+    "past": "withheld",
+    "past_participle": "withheld",
+    "signification": "từ khước",
+    "stt": "356"
+  },
+  {
+    "infinitive": "withstand",
+    "past": "withstood",
+    "past_participle": "withstood",
+    "signification": "cầm cự",
+    "stt": "357"
+  },
+  {
+    "infinitive": "work",
+    "past": "worked",
+    "past_participle": "worked",
+    "signification": "rèn, nhào nặn đất",
+    "stt": "358"
+  },
+  {
+    "infinitive": "wring",
+    "past": "wrung",
+    "past_participle": "wrung",
+    "signification": "vặn, siết chặt",
+    "stt": "359"
+  },
+  {
+    "infinitive": "write",
+    "past": "wrote",
+    "past_participle": "written",
+    "signification": "viết",
+    "stt": "360"
+  }
+]

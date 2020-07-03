@@ -5,3 +5,4 @@ export { default as EGrammar } from './EGrammar';
 export { default as EIrregularVerbs } from './EIrregularVerbs';
 export { default as EVocabulary } from './EVocabulary';
 export { default as Setting } from './Setting';
+export { default as ETopicVocabulary } from './ETopicVocabulary' 
