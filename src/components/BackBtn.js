@@ -11,7 +11,7 @@ const BackBtn = (props) => {
             top: '30px',
             left: '30px',
         }}>
-            <Link to={path} style={{ color: '#fff', }}>
+            <Link to={path} style={{ color: '#fff' }}>
                 <ArrowLeftOutlined style={{ fontSize: "30px" }} />
             </Link>
         </div>

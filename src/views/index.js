@@ -6,3 +6,4 @@ export { default as EIrregularVerbs } from './EIrregularVerbs';
 export { default as EVocabulary } from './EVocabulary';
 export { default as Setting } from './Setting';
 export { default as ETopicVocabulary } from './ETopicVocabulary' 
+export { default as EDetailTopicVocabulary } from './EDetailTopicVocabulary' 

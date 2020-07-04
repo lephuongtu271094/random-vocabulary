@@ -5,7 +5,8 @@ import {
     EIrregularVerbs,
     EVocabulary,
     Setting,
-    ETopicVocabulary
+    ETopicVocabulary,
+    EDetailTopicVocabulary
 } from 'views';
 import { Minimal as MinimalLayout } from 'layouts';
 
@@ -50,6 +51,12 @@ export const routePath = [
         id: 7,
         path: '/english/topic-vocabulary',
         component: ETopicVocabulary,
+        layout: MinimalLayout,
+    },
+    {
+        id: 8,
+        path: '/english/topic-vocabulary/:topic',
+        component: EDetailTopicVocabulary,
         layout: MinimalLayout,
     }
 ];

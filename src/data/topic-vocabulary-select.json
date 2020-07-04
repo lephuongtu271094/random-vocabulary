@@ -1,242 +1,237 @@
 [
     {
         "stt": "1",
-        "id": "tu-vung-tieng-anh-ve-am-nhac",
-        "title": "Music Vocabulary"
+        "id": "music",
+        "title": "Music"
     },
     {
         "stt": "2",
-        "id": "tu-vung-tieng-anh-ve-benh-vien",
-        "title": "Hospital Vocabulary"
+        "id": "hospital",
+        "title": "Hospital"
     },
     {
         "stt": "3",
-        "id": "tu-vung-tieng-anh-ve-bien",
-        "title": "Beach Vocabulary"
+        "id": "beach",
+        "title": "Beach"
     },
     {
         "stt": "4",
-        "id": "tu-vung-tieng-anh-ve-bong-da",
-        "title": "Football Vocabulary"
+        "id": "football",
+        "title": "Football"
     },
     {
         "stt": "5",
-        "id": "tu-vung-tieng-anh-ve-cac-loai-hoa",
-        "title": "Flowers Vocabulary"
+        "id": "flowers",
+        "title": "Flowers"
     },
     {
         "stt": "6",
-        "id": "tu-vung-tieng-anh-ve-cam-xuc",
-        "title": "Emotion Vocabulary"
+        "id": "emotion",
+        "title": "Emotion"
     },
     {
         "stt": "7",
-        "id": "tu-vung-tieng-anh-ve-cong-viec-nha",
-        "title": "Housework Vocabulary"
+        "id": "housework",
+        "title": "Housework"
     },
     {
         "stt": "8",
-        "id": "tu-vung-tieng-anh-ve-dam-cuoi",
-        "title": "Wedding Vocabulary"
+        "id": "wedding",
+        "title": "Wedding"
     },
     {
         "stt": "9",
-        "id": "tu-vung-tieng-anh-ve-do-an",
-        "title": "Food Vocabulary"
+        "id": "food",
+        "title": "Food"
     },
     {
         "stt": "10",
-        "id": "tu-vung-tieng-anh-ve-do-trang-suc",
-        "title": "Jewelry Vocabulary"
+        "id": "jewelry",
+        "title": "Jewelry"
     },
     {
         "stt": "11",
-        "id": "tu-vung-tieng-anh-ve-do-uong",
-        "title": "Beverage Vocabulary"
+        "id": "beverage",
+        "title": "Beverage"
     },
     {
         "stt": "12",
-        "id": "tu-vung-tieng-anh-ve-dong-vat",
-        "title": "Animal Vocabulary"
+        "id": "animal",
+        "title": "Animal"
     },
     {
         "stt": "13",
-        "id": "tu-vung-tieng-anh-ve-du-lich",
-        "title": "Travel Vocabulary"
+        "id": "travel",
+        "title": "Travel"
     },
     {
         "stt": "14",
-        "id": "tu-vung-tieng-anh-ve-dung-cu-hoc-tap",
-        "title": "Learning Tools Vocabulary"
+        "id": "learningtools",
+        "title": "Learning Tools"
     },
     {
         "stt": "15",
-        "id": "tu-vung-tieng-anh-ve-gia-dinh",
-        "title": "Family Vocabulary"
+        "id": "family",
+        "title": "Family"
     },
     {
         "stt": "16",
-        "id": "tu-vung-tieng-anh-ve-giai-tri",
-        "title": "Relax Vocabulary"
+        "id": "relax",
+        "title": "Relax"
     },
     {
         "stt": "17",
-        "id": "tu-vung-tieng-anh-ve-giang-sinh",
-        "title": "Christmas Vocabulary"
+        "id": "christmas",
+        "title": "Christmas"
     },
     {
         "stt": "18",
-        "id": "tu-vung-tieng-anh-ve-giao-duc",
-        "title": "Education Vocabulary"
+        "id": "education",
+        "title": "Education"
     },
     {
         "stt": "19",
-        "id": "tu-vung-tieng-anh-ve-hanh-dong",
-        "title": "Act Vocabulary"
+        "id": "act",
+        "title": "Act"
     },
     {
         "stt": "20",
-        "id": "tu-vung-tieng-anh-ve-hoat-dong-thuong-ngay",
-        "title": "Daily Activities Vocabulary"
+        "id": "dailyactivities",
+        "title": "Daily Activities"
     },
     {
         "stt": "21",
-        "id": "tu-vung-tieng-anh-ve-mau-sac",
-        "title": "Color Vocabulary"
+        "id": "color",
+        "title": "Color"
     },
     {
         "stt": "22",
-        "id": "tu-vung-tieng-anh-ve-may-tinh",
-        "title": "Computers Vocabulary"
+        "id": "computer",
+        "title": "Computers"
     },
     {
         "stt": "23",
-        "id": "tu-vung-tieng-anh-ve-moi-truong",
-        "title": "Environment Vocabulary"
+        "id": "env",
+        "title": "Environment"
     },
     {
         "stt": "24",
-        "id": "tu-vung-tieng-anh-ve-mua-sam",
-        "title": "Shopping Vocabulary"
+        "id": "shopping",
+        "title": "Shopping"
     },
     {
         "stt": "25",
-        "id": "tu-vung-tieng-anh-ve-nghe-nghiep",
-        "title": "Career Vocabulary"
+        "id": "career",
+        "title": "Career"
     },
     {
         "stt": "26",
-        "id": "tu-vung-tieng-anh-ve-nha-bep",
-        "title": "Kitchen Vocabulary"
+        "id": "kitchen",
+        "title": "Kitchen"
     },
     {
         "stt": "27",
-        "id": "tu-vung-tieng-anh-ve-nha-hang---khach-san",
-        "title": "Restaurant Vocabulary"
+        "id": "restaurant",
+        "title": "Restaurant"
     },
     {
         "stt": "28",
-        "id": "tu-vung-tieng-anh-ve-phim-anh",
-        "title": "Movies Vocabulary"
+        "id": "movies",
+        "title": "Movies"
     },
     {
         "stt": "29",
-        "id": "tu-vung-tieng-anh-ve-phong-khach",
-        "title": "Living Room Vocabulary"
+        "id": "livingroom",
+        "title": "Living Room"
     },
     {
         "stt": "30",
-        "id": "tu-vung-tieng-anh-ve-phong-ngu",
-        "title": "Bedroom Vocabulary"
+        "id": "bedroom",
+        "title": "Bedroom"
     },
     {
         "stt": "31",
-        "id": "tu-vung-tieng-anh-ve-phuong-tien-giao-thong",
-        "title": "Transport Vocabulary"
+        "id": "transport",
+        "title": "Transport"
     },
     {
         "stt": "32",
-        "id": "tu-vung-tieng-anh-ve-quan-ao",
-        "title": "Clothes Vocabulary"
+        "id": "clothes",
+        "title": "Clothes"
     },
     {
         "stt": "33",
-        "id": "tu-vung-tieng-anh-ve-que-huong",
-        "title": "Hometown Vocabulary"
+        "id": "hometown",
+        "title": "Hometown"
     },
     {
         "stt": "34",
-        "id": "tu-vung-tieng-anh-ve-rau-cu-qua",
-        "title": "Vegetables Vocabulary"
+        "id": "vegetable",
+        "title": "Vegetables"
     },
     {
         "stt": "35",
-        "id": "tu-vung-tieng-anh-ve-san-bay",
-        "title": "Airport Vocabulary"
+        "id": "airport",
+        "title": "Airport"
     },
     {
         "stt": "36",
-        "id": "tu-vung-tieng-anh-ve-phong-ngu",
-        "title": "Bedroom Vocabulary"
+        "id": "cardinalnumber",
+        "title": "Cardinal Number"
     },
     {
         "stt": "37",
-        "id": "tu-vung-tieng-anh-ve-so-dem",
-        "title": "Cardinal Number Vocabulary"
+        "id": "health",
+        "title": "Health"
     },
     {
         "stt": "38",
-        "id": "tu-vung-tieng-anh-ve-suc-khoe",
-        "title": "Health Vocabulary"
+        "id": "sport",
+        "title": "Sport"
     },
     {
         "stt": "39",
-        "id": "tu-vung-tieng-anh-ve-the-thao",
-        "title": "Sport Vocabulary"
+        "id": "time",
+        "title": "Time"
     },
     {
         "stt": "40",
-        "id": "tu-vung-tieng-anh-ve-thoi-gian",
-        "title": "Time Vocabulary"
+        "id": "weather",
+        "title": "Weather"
     },
     {
         "stt": "41",
-        "id": "tu-vung-tieng-anh-ve-thoi-tiet",
-        "title": "Weather Vocabulary"
+        "id": "friendship",
+        "title": "Friendship"
     },
     {
         "stt": "42",
-        "id": "tu-vung-tieng-anh-ve-tinh-ban",
-        "title": "Friendship Vocabulary"
+        "id": "genitive",
+        "title": "Genitive"
     },
     {
         "stt": "43",
-        "id": "tu-vung-tieng-anh-ve-tinh-cach",
-        "title": "Genitive Vocabulary"
+        "id": "love",
+        "title": "Love"
     },
     {
         "stt": "44",
-        "id": "tu-vung-tieng-anh-ve-tinh-yeu",
-        "title": "Love Vocabulary"
+        "id": "fruit",
+        "title": "Fruit"
     },
     {
         "stt": "45",
-        "id": "tu-vung-tieng-anh-ve-trai-cay",
-        "title": "Fruit Vocabulary"
+        "id": "midautumnday",
+        "title": "Mid-Autumn Day"
     },
     {
         "stt": "46",
-        "id": "tu-vung-tieng-anh-ve-trung-thu",
-        "title": "Mid-Autumn Day Vocabulary"
+        "id": "school",
+        "title": "Schools"
     },
     {
         "stt": "47",
-        "id": "tu-vung-tieng-anh-ve-truong-hoc",
-        "title": "Schools Vocabulary"
-    },
-    {
-        "stt": "48",
-        "id": "tu-vung-ve-cac-cua-hang",
-        "title": "Shops Vocabulary"
+        "id": "shop",
+        "title": "Shops"
     }
 ]

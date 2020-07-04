@@ -14,4 +14,5 @@ export const BtnSelect = styled.div`
     color: #fff;
     border-radius: 5px;
     margin: 20px;
+    font-weight: 600;
 `
